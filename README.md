@@ -40,7 +40,7 @@ ESLint;
 Prettier.
 Como executar o projeto
 1. Clonar o repositório
-git clone [LINK-DO-SEU-REPOSITORIO]
+git clone https://github.com/jpvolante/loja-computadores
 2. Entrar na pasta
 cd loja-computadores
 3. Instalar as dependências
