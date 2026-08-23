@@ -1,0 +1,8 @@
+# .husky/pre-commit
+
+echo "🔍 Executando verificações antes do commit..."
+
+# Executa lint-staged para arquivos modificados
+npx lint-staged
+
+echo "✅ Verificações concluídas com sucesso!"

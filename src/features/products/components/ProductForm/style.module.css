@@ -1,0 +1,26 @@
+.section {
+  padding: 80px 20px;
+  background-color: #f8fafc;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
+  background-color: white;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 32px;
+  text-align: center;
+  color: #1f2937;
+}
+
+.actions {
+  text-align: center;
+}
