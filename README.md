@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # ⚙️ DIGITAL SANCA
@@ -170,4 +169,3 @@ Projeto desenvolvido para fins acadêmicos, de aprendizagem e prática de progra
 Versão personalizada por **João Pedro Volante**.
 
 </div>
-````
