@@ -17,6 +17,7 @@
 <br>
 
 [![Acessar projeto](https://img.shields.io/badge/ACESSAR_PROJETO-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://loja-computadores.vercel.app/)
+
 [![Ver repositório](https://img.shields.io/badge/VER_CÓDIGO-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpvolante/loja-computadores)
 
 </div>
@@ -153,7 +154,6 @@ src/
 - **Campus:** São Carlos
 - **Disciplina:** Programação para Web II
 - **Ano:** 2026
-
 
 ---
 
